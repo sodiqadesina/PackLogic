@@ -1,0 +1,6 @@
+@PackLogic.Api_HostAddress = http://localhost:5261
+
+GET {{PackLogic.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
