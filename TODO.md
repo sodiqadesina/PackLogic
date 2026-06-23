@@ -19,9 +19,9 @@ These tasks should be completed first because they create the foundation for all
 
 ### Repository and Project Setup
 
-- [ ] Confirm `dotnet build` succeeds from the solution root.
-- [ ] Confirm the Angular client starts with `npm install` and `npm start`.
-- [ ] Add or verify root `.gitignore` for .NET, Angular, Visual Studio, and environment files.
+- [x] Confirm `dotnet build` succeeds from the solution root.
+- [x] Confirm the Angular client starts with `npm install` and `npm start`.
+- [x] Add or verify root `.gitignore` for .NET, Angular, Visual Studio, and environment files.
 - [ ] Remove placeholder `Class1.cs` files once real classes are added.
 - [ ] Add root setup instructions to `README.md`.
 - [ ] Add local development requirements:
@@ -419,9 +419,9 @@ Prepare PackLogic for domain-driven backend development.
 ### Sprint 1 Tasks
 
 - [ ] Clean placeholder files.
-- [ ] Confirm backend build.
-- [ ] Confirm frontend build.
-- [ ] Add `.gitignore` if missing.
+- [x] Confirm backend build.
+- [x] Confirm frontend build.
+- [x] Add `.gitignore` if missing.
 - [ ] Add `Dimensions` value object.
 - [ ] Add `Weight` value object.
 - [ ] Add `Part` entity.
